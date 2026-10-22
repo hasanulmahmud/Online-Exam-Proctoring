@@ -1,9 +1,9 @@
 Canvas Single Tab Monitor (prototype)
 
-1. Extract this ZIP.
+1. Extract this ZIP file.
 2. Open Chrome: chrome://extensions
 3. Enable Developer mode; choose Load unpacked.
-4. Select the extracted chrome_single_tab_monitor folder.
+4. Select the Proctor folder.
 5. Close all extra tabs/windows and open the Canvas exam.
 6. Click the extension icon, then Start.
 7. The extension flags additional tabs/windows in this Chrome profile and active pages not recognized as Canvas.
